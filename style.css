@@ -1,0 +1,49 @@
+body{
+  font-family: fantasy;
+  background-color: black;
+}
+.login{
+  border-radius: 20px;
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: white;
+  margin-top: 5%;
+}
+.body{
+  text-align: center;
+
+  padding: 10px;
+}
+input{
+  border-radius: 5px;
+  border-color: gray;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 400px;
+}
+a{
+  text-decoration: none;
+  color: gray;
+}
+a:hover{
+  color: black;
+}
+button{
+  background-color: #5a4088;
+  width: 150px;
+  height: 50px;
+  margin-right: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+}
+button:hover{
+  background-color: #5a4088bd;
+}
+.login h1{
+  color: white;
+  padding: 20px;
+  background-color: #5a4088;
+}
